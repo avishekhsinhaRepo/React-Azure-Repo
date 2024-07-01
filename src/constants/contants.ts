@@ -1,0 +1,2 @@
+export const TELESALES_API_ENDPOINT = '/plan-benefits-chat-api/getinput/?input=%7B%22query%22%3A%22medciare%22%2C%22zip%22%3A%2202472%22%2C%22planId%22%3A%22%22%7D';
+export const URL_REGEX = /(https?:\/\/[^\s]+)/g; 
